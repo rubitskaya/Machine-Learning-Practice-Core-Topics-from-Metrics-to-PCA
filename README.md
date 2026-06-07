@@ -1,0 +1,2 @@
+# Machine-Learning-Practice-Core-Topics-from-Metrics-to-PCA
+A comprehensive ML practice covering essential topics: evaluation metrics, threshold tuning, cross‑validation, model diagnostics, hyperparameter optimization, data integration, numeric &amp; categorical feature handling, target analysis, exploratory data analysis (EDA), clustering, and PCA. Suitable for hands‑on learning of key ML workflow stages.
